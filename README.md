@@ -1,7 +1,12 @@
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 ## About Pizza App
-- Pizza App URL: https://secure-citadel-17550.herokuapp.com/
+###App Credentials for Demo:
+**Pizza App URL**: https://secure-citadel-17550.herokuapp.com
+
+**Email**: abbasnaumani@gmail.com
+
+**Password**: 12345678
 ### Environment Setup (Ubuntu & Windows)
 
 #### Php 7.2
